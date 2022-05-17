@@ -1,4 +1,7 @@
-/* USER CODE BEGIN Includes */
+STM32CubeIDE Settings
+Enable USART1 asynchronous
+  
+  /* USER CODE BEGIN Includes */
 #include <string.h>
 #include <stdio.h>
 /* USER CODE END Includes */
